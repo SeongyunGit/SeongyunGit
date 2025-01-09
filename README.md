@@ -67,7 +67,7 @@
 <a href="https://solved.ac/okks357">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=okks357" alt="Solved.ac 프로필" />
   </a>
+  <img src="http://mazandi.herokuapp.com/api?handle=okks357&theme=warm"/>
 </div>
-<img src="http://mazandi.herokuapp.com/api?handle=okks357&theme=warm"/>
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeongyunGit)](https://github.com/SeongyunGit/github-readme-stats)
