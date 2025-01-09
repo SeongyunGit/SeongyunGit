@@ -16,5 +16,7 @@
       src="https://img.shields.io/badge/okks3579@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
+
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=okks357)](https://solved.ac/okks357)
+<br>
 <img src="http://mazandi.herokuapp.com/api?handle=okks357&theme=warm"/>
