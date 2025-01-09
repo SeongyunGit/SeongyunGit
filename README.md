@@ -64,7 +64,9 @@
 </div>
 
 <div align="center">
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=okks357)](https://solved.ac/okks357)
+<a href="https://solved.ac/okks357">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=okks357" alt="Solved.ac 프로필" />
+  </a>
 </div>
 <img src="http://mazandi.herokuapp.com/api?handle=okks357&theme=warm"/>
 <br>
